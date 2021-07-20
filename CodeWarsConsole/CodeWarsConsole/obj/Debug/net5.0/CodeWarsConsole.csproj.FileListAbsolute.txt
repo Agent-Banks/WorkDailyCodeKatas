@@ -1,0 +1,16 @@
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\bin\Debug\net5.0\CodeWarsConsole.exe
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\bin\Debug\net5.0\CodeWarsConsole.deps.json
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\bin\Debug\net5.0\CodeWarsConsole.runtimeconfig.json
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\bin\Debug\net5.0\CodeWarsConsole.runtimeconfig.dev.json
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\bin\Debug\net5.0\CodeWarsConsole.dll
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\bin\Debug\net5.0\ref\CodeWarsConsole.dll
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\bin\Debug\net5.0\CodeWarsConsole.pdb
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\obj\Debug\net5.0\CodeWarsConsole.csprojAssemblyReference.cache
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\obj\Debug\net5.0\CodeWarsConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\obj\Debug\net5.0\CodeWarsConsole.AssemblyInfoInputs.cache
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\obj\Debug\net5.0\CodeWarsConsole.AssemblyInfo.cs
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\obj\Debug\net5.0\CodeWarsConsole.csproj.CoreCompileInputs.cache
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\obj\Debug\net5.0\CodeWarsConsole.dll
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\obj\Debug\net5.0\ref\CodeWarsConsole.dll
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\obj\Debug\net5.0\CodeWarsConsole.pdb
+C:\Users\cody.banks\source\Workspaces\Cody's Side Projects\CodeWarsConsole\CodeWarsConsole\obj\Debug\net5.0\CodeWarsConsole.genruntimeconfig.cache
